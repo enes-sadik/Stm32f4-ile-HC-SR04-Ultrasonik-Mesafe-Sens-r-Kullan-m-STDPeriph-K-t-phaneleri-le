@@ -1,1 +1,1 @@
-# Stm32f4-ile-HC-SR04-Ultrasonik-Mesafe-Sens-r-Kullan-m-STDPeriph-K-t-phaneleri-le
+# Stm32f4-ile-HC-SR04-Ultrasonik-Mesafe-Sensor-Kullanimi-STDPeriph-Kutuphaneleri-ıle
